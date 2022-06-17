@@ -1,0 +1,88 @@
+.programa{
+    width:50rem;
+    height:40rem;
+    margin:auto;
+    margin-top:10rem;
+    border:solid black 2px;
+    border-radius:5px;
+}
+
+.entrada{
+    margin-top:4rem;
+    margin-left:16rem;
+    width:20rem;
+    height:3rem;
+    border:black solid 2px;
+
+    font-size:1.4rem;
+    font-weight: 600;
+    padding-left:0.5rem;
+    border-radius:3px;
+}
+
+.caja_titulo{
+    width:40rem;
+    height:6rem;
+    border:solid black 2px;
+
+    margin:auto;
+    margin-top:6rem;
+    display:flex;
+    padding-left:17rem;
+    align-items: center;
+    border-radius:5px;
+}
+
+.cj_titulo{
+    font-size:1.8rem;
+    font-weight: 600;
+}
+
+.caja_botones{
+    margin:auto;
+    display:flex;
+}
+
+.pg_boton{
+    width:10rem;
+    height:4rem;
+    background-color: green;
+    border:solid black 2px;
+    margin-left:10rem;
+    margin-top:5rem;
+
+    border-radius:4px;
+    cursor:pointer;
+}
+
+.pg_boton h3{
+    color:white;
+    text-align:center;
+    font-size:25px;
+}
+
+.pg_boton2 h3{
+    color:white;
+    text-align:center;
+    font-size:25px;
+}
+
+
+
+.pg_boton2{
+    width:10rem;
+    height:4rem;
+    background-color: green;
+    border:solid black 2px;
+    margin-left:10rem;
+    margin-top:5rem;
+
+    border-radius:4px;
+    cursor:pointer;
+}
+
+.cambiar_color{
+    background-color: brown;
+    
+}
+
