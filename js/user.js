@@ -1,4 +1,4 @@
-let user = [
+export let user_ob = [
 
     {
         id:100, 
@@ -76,5 +76,5 @@ let user = [
 ]
 
 
-    console.log(user[0].Name);
+    console.log(user_ob[0].Name);
 

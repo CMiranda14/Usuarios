@@ -1,8 +1,6 @@
 .programa{
     width:50rem;
     height:40rem;
-    margin:auto;
-    margin-top:10rem;
     border:solid black 2px;
     border-radius:5px;
 }
@@ -67,6 +65,21 @@
     font-size:25px;
 }
 
+#bt_ver{
+    width: 8rem;
+    height:4rem;
+    background-color: green;
+    color:white;
+    border:solid black 2px;
+    border-radius:4px;
+    display:flex;
+    font-size: 2rem;
+    margin:auto;
+    cursor: pointer;
+    padding-top:0.5rem;
+    padding-left:2.5rem;
+    margin-top:2rem;
+}
 
 
 .pg_boton2{

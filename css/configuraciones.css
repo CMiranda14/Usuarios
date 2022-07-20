@@ -10,3 +10,10 @@ html{
     font-size: 10px;
     font-family: sans-serif;
 }
+
+.sec{
+    display: flex;
+    justify-content: space-around;
+    margin-top:10rem;
+    
+}
